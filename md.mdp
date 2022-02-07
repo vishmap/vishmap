@@ -1,4 +1,4 @@
-title                   = OPLS Lysozyme NPT equilibration 
+title                   = AMBER SARS-CoV-2
 ; Run parameters
 integrator              = md        ; leap-frog integrator
 nsteps                  = 20000000    ; 2 * 20000000 = 40000 ps (40 ns)
